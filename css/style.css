@@ -61,7 +61,7 @@ body {
     bottom: 52.5%;
     right: 15%;
 }
-@media (max-width: 980px){
+@media (max-width: 900px){
     .main{
         right: 6%;
         top: 2%;
