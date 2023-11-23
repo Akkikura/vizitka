@@ -21,7 +21,7 @@ body {
     text-align: center;
     font-size: 1.75rem;
     color: white;
-    position: absolute;
+    position: fixed;
     align-content: center;
     right: 200px;
 }
@@ -50,7 +50,7 @@ body {
 .loligifs{
     width: 100px;
     height: 100px;
-    position: absolute;
+    position: fixed;
 }
 .loli1{
     left: 400px;
