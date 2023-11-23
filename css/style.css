@@ -51,9 +51,12 @@ body {
 }
 .loli1{
     left: 400px;
-    top: 45px;  
+    top: 7px;  
 }
 .loli2{
     bottom: 502px;
     right: 300px;
+}
+.undertext_class{
+    font-size: 1.65rem;
 }
