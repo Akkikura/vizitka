@@ -25,6 +25,9 @@ body {
     align-content: center;
     right: 200px;
 }
+.undertext_class{
+    font-size: 1.65rem;
+}
 .contacts{
     position: fixed;
     left: 20px;
@@ -56,7 +59,4 @@ body {
 .loli2{
     bottom: 502px;
     right: 300px;
-}
-.undertext_class{
-    font-size: 1.65rem;
 }
