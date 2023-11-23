@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+* {
+    font-family: 'Press Start 2P',Roboto,sans-serif;
+}
+body {
+    background-color: rgb(159, 199, 151); 
+    line-height: 1.5;
+    font-size: 18px;
+    margin: 0;
+    background: url("../img/bg.gif")
+}
+
+.main {
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: 1.75rem;
+    color: white;
+    position: absolute;
+    align-content: center;
+    right: 200px;
+}
+.contacts{
+    position: fixed;
+    left: 20px;
+    bottom: 25px;
+    font-size: 19px;
+    color: white;
+}
+.img_class{
+    width: 300px;
+    height: 400px;
+    display:   block;
+    margin: 70px;
+    border-radius: 40%;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.loligifs{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.loli1{
+    left: 400px;
+    top: 45px;  
+}
+.loli2{
+    bottom: 502px;
+    right: 300px;
+}
