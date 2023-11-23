@@ -51,10 +51,12 @@ body {
     position: absolute;
 }
 .loli1{
+    background: url("../img/lolidance.gif");
     left: 400px;
     top: 45px;  
 }
 .loli2{
+    background: url("../img/lolifuck.gif");
     bottom: 502px;
     right: 300px;
 }
