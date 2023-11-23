@@ -23,15 +23,15 @@ body {
     color: white;
     position: fixed;
     align-content: center;
-    right: 200px;
+    right: 18%;
 }
 .undertext_class{
     font-size: 1.65rem;
 }
 .contacts{
     position: fixed;
-    left: 20px;
-    bottom: 25px;
+    left: 2%;
+    bottom: 2.5%;
     font-size: 19px;
     color: white;
 }
@@ -39,7 +39,7 @@ body {
     width: 300px;
     height: 400px;
     display:   block;
-    margin: 70px;
+    margin: 7%;
     border-radius: 40%;
 }
 
@@ -47,16 +47,44 @@ body {
     text-decoration: none;
     color: white;
 }
-.loligifs{
+.loli1{
     width: 100px;
     height: 100px;
     position: fixed;
-}
-.loli1{
-    left: 400px;
-    top: 7px;  
+    left: 30%;
+    top: 0.7%;  
 }
 .loli2{
-    bottom: 502px;
-    right: 300px;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 52.5%;
+    right: 15%;
+}
+@media (max-width: 980px){
+    .main{
+        right: 6%;
+        top: 2%;
+    }
+    .name_class{
+        font-size: 18px;
+    }
+    .undertext_class{
+        font-size: 13px;
+    }
+    .img_class{
+        width: 150px;
+        height: 200px;
+    }
+    }
+    .loli2{
+        display: none;
+    }
+    .loli1{
+        left: 5%;
+        bottom: 90%;
+        width: 10px;
+        height: 10px;
+
+    }
 }
